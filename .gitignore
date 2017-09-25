@@ -4,3 +4,4 @@ Gemfile.lock
 *.gem
 referencemarkdown.md
 README.md
+assets/
