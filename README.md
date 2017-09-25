@@ -1,1 +1,5 @@
-# Jwing28.github.io
+# My blog
+
+Hi! Welcome to my blog.
+
+
