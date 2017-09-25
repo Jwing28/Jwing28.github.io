@@ -1,2 +1,3 @@
 baseurl: /Jwing28.github.io
+theme: jekyll-theme-tactile
 exclude: ['README.md']
