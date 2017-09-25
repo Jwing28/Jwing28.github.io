@@ -1,6 +1,6 @@
 title: Jon's Code
 description: My programming blog
-baseurl: /Jwing28.github.io
+url: /Jwing28.github.io
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-tactile
